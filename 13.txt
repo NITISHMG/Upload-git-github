@@ -1,0 +1,97 @@
+USN										
+New Horizon College of Engineering, Bangalore
+Autonomous College affiliated to VTU, Accredited by NAAC with ‘A’ Grade& NBA
+	
+Semester End Examinations July 2021
+
+TRAFFIC ENGINEERING
+Duration: 3 hrs											Max. Marks: 100
+Note: Chart extracted from IRC code book can use.
+Answer five full questions choosing one complete question from each module.
+
+	Module 1	Marks	RBT	CO
+1 a)	What are the objects and scope of traffic engineering? Explain briefly.	6	L1	CO1
+b)	What are the different vehicular characteristics which affect the road design? Briefly explain.	7	L2	CO1
+c)	A passenger car weighing 2 tones is required to accelerate at a rate of 3m/ sec2   in the first      gear from a speed of 10 kmph. The gradient is +1 percent and the road has a black topped surface. The frontal projection area of the car is 2m2 The car tyre has a radius of 0.33m. The rear axle gear ratio is 3.82:1 and first gear ratio is 2.78:1 compute the engine horse power needed and the speed of the engine. Make suitable assumptions.	7	L3	CO1
+OR
+2 a)	Write down note on reaction time of driver.	6	L1	CO1
+b)	Indicate the maximum dimension and weight of the vehicles allowed in India, as specified by IRC.	7	L2	CO1
+c)	In a braking test, a vehicle travelling at a speed of 30 kmph was stopped by applying brakes fully and the skid marks were 5.8 m in length. Determine the average skid resistance of the pavement surface	7	L3	CO1
+Module 2
+3 a)	Explain the objects of traffic volume study	4	L1	CO2
+b)	Illustrate how spot speed studies are carried out.	6	L3	CO2
+c)	Spot speed studies carried out at a certain stretch of a highway and the consolidated data collected are given below.
+Speed range in Kmph	No. of vehicles observed	Speed range in Kmph	No. of vehicles observed
+0 to 10	12	50 to 60	255
+10 to 20	18	60 to 70	119
+20 to 30	68	70 to 80	43
+30 to 40	89	80 to 90	33
+40 to 50	204	90 to 100	9
+
+Compute 
+1.	The upper and lower value of speed limits for regulation of mixed traffic flow and 
+2.	The design speed for checking the geometric design elements of the highway	10	L4	CO2
+OR
+4 a)	What are the factors on which PCU values depends	4	L1	CO2
+b)	Illustrate the various uses of speed and delay studies	6	L3	CO2
+c)	A vehicle of weight 2.0 tonne skids through a distance equal to 40m before colliding with another parked vehicle of weight 1.0 tonne. After collision both the vehicles skid through a distance equal to 12m before stopping. Compute the initial speed of the moving vehicle. Assume average coefficient of friction as 0.5.	10	L4	CO2
+Module 3
+5 a)	Explain Speed-Flow and density relationship	10	L3	CO3,4
+b)	Explain concept of Green Shield theory	10	L4	CO3,4
+OR
+6 a)	Explain briefly car following theory 	10	L3	CO3,4
+b)	A toll booth at the entrance to a bridge can handle 120veh/hour, the time to process a vehicle being exponentially distributed. The flow is 90 veh/hour with a poissonian arrival pattern. Determine.
+i)	The average number of vehicle in the system.
+ii)	The length of the queue.
+iii)	The average time spent by the vehicle in the queue.
+iv)	The average time spent by the vehicle in the System.	10	L4	CO3,4
+Module 4
+7a)	The data in following table shows the occupancy of parking spaces in a parking lot consisting of 50spaces. The count was taken as 15 minute intervals during the 4 hours duration between 11:00 A.M. and 3:00 P.M on 6week days (Monday to Saturday). Find by inspection whether the number of vacant spaces during any count follows a Poisson distribution.
+
+Occupancy of parking spaces	Frequency
+50	6
+49	15
+48	21
+47	20
+46	15
+45	10
+44	5
+43	2
+42	1
+41	1
+40 and less	0
+	10	L2	CO5
+b)	The spot speeds at a particular location on an expressway are known to be normally distributed with a mean of 80 kmph. A new radar speedometer was bought by Traffic Department and a set of 100 observations of speeds was taken. The mean speed observed was 77.3 kmph and the standard deviation was 15 kmph. Is there any evidence to prove that	10	L3	CO5
+OR
+8 a)	Briefly Explain the significance testing	10	L2	CO5
+b)	In order to assess whether the is any relationship between the accident and the age of drivers, an analysis of previous data yielded the following
+		Age group of drivers	Total accidents
+Accident Severity 		18-30	30-50	Above 50	
+	Fatal	15	7	22	44
+	Grievous Injury	29	11	38	78
+	Minor Injury	35	82	95	212
+		79	100	155	334
+Test whether there is any significant relationship between the accident severity and the age of drivers.	10	L3	CO5
+Module 5
+9 a)	Explain general principles of traffic signing	3	L2	CO6
+b)	List out types of road markings and explain briefly No Over Taking Zone	7	L3	CO6
+c)	Explain advantages and disadvantages of traffic signals	10	L4	CO6
+OR
+10a)	Explain general principles of Longitudinal pavement markings 	3	L2	CO6
+b)	List out the types traffic Aids and explain the general principles of street furniture design	7	L3	CO6
+c)	Explain with application of Intelligence transport  system in the present traffic scenario.	10	L4	CO6
+
+Note: Kindly Ensure to frame the Questions as per the RBT level indicated.
+
+
+SEE-Semester End Examination (100 Marks)
+Bloom’s Category	Marks
+Remember	10
+Understand	20
+Apply	40
+Analyze	30
+Evaluate	-
+Create	-
+
+
+
