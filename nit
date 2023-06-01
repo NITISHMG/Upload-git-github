@@ -12,4 +12,3 @@ do
 	echo "nitish is $i time good person"
 done
 
-end	
